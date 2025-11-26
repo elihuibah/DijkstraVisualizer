@@ -43,7 +43,4 @@ Importa el proyecto de Java a tu IDE de preferencia. Al ejecutarse, se despliega
 - Sinaí Mondragón [https://github.com/sina1mgi-bot]
 - Francisco Nájera [https://github.com/FranciscoNP4]
 
-## Capturas de pantalla
-
-
 Este proyecto cuenta con licencia conforme a los términos de la licencia MIT
