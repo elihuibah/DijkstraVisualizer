@@ -24,4 +24,11 @@ public class Nodo {
     public int hashCode() {
         return Integer.hashCode(id);
     }
+    public static void resetIDCounter(){
+        nextId = 0;
+    }
+    @Override
+    public String toString(){
+        return "Nodo "+ id;
+    }
 }
